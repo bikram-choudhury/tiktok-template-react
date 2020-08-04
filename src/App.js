@@ -76,7 +76,7 @@ function App() {
       })
 
       timer = null;
-    }, 100);
+    }, 150);
   }
 
   return (
