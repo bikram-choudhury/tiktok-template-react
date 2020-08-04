@@ -53,6 +53,8 @@ const VideoCard = forwardRef(({
                 likes={likes}
                 messages={messages}
                 shares={shares}
+                url={url}
+                title={desctiption}
             />
         </div>
     )

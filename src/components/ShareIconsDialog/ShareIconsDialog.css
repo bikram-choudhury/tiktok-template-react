@@ -1,0 +1,3 @@
+.share__btn:not(:first-child) {
+    margin-left: 10px;
+}
